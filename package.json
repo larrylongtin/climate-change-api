@@ -1,8 +1,6 @@
 {
   "name": "climate-change-api",
   "version": "1.0.0",
-<<<<<<< HEAD
-<<<<<<< HEAD
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -15,11 +13,8 @@
     "cheerio": "^1.0.0-rc.10",
     "express": "^4.17.1",
     "nodemon": "^2.0.13"
-=======
+  },
   "description": "tutorial from the web Ania Kubow",
-=======
-  "description": "",
->>>>>>> 805dad6 (main)
   "main": "index.js",
   "scripts": {
     "start": "nodemon index.js"
@@ -27,16 +22,10 @@
   "author": "ania kubow",
   "license": "ISC",
   "dependencies": {
-<<<<<<< HEAD
-    "python": "^0.0.4"
->>>>>>> 01f45b7 (prepping for Heroku)
-  }
-=======
     "axios": "^0.21.4",
     "cheerio": "^1.0.0-rc.12",
     "express": "^4.18.2",
     "nodemon": "^2.0.20"
   },
   "devDependencies": {}
->>>>>>> 805dad6 (main)
 }
