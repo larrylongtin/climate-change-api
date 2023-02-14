@@ -1,15 +1,8 @@
-<<<<<<< HEAD
-<<<<<<< HEAD
 const PORT = process.env.PORT || 8000
-=======
-﻿const PORT = process.env.PORT || 8000
->>>>>>> 805dad6 (main)
 const express = require('express')
 const axios = require('axios')
 const cheerio = require('cheerio')
 const app = express()
-<<<<<<< HEAD
-
 const newspapers = [
     {
         name: 'cityam',
