@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 const PORT = process.env.PORT || 8000
 const express = require('express')
 const axios = require('axios')
@@ -129,3 +130,9 @@ app.get('/news/:newspaperId', (req, res) => {
 })
 
 app.listen(PORT, () => console.log(`server running on PORT ${PORT}`))
+=======
+﻿{
+
+}
+
+>>>>>>> 01f45b7 (prepping for Heroku)
